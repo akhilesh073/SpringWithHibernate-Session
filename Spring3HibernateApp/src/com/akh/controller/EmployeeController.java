@@ -18,7 +18,7 @@ import com.akh.model.Employee;
 import com.akh.service.EmployeeService;
 
 /**
- * @author Dinesh Rajput
+ * @author akhilesh
  *
  */
 @Controller

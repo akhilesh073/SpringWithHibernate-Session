@@ -5,7 +5,7 @@ import java.util.List;
 import com.akh.model.Employee;
 
 /**
- * @author Dinesh Rajput
+ * @author akhilesh
  *
  */
 public interface EmployeeDao {

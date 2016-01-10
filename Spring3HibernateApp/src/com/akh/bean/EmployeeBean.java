@@ -1,7 +1,7 @@
 package com.akh.bean;
 
 /**
- * @author 
+ * @author akhilesh
  *
  */
 public class EmployeeBean {

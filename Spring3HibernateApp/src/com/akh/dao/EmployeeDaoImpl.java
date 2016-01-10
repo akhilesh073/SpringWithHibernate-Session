@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import com.akh.model.Employee;
 
 /**
- * @author Dinesh Rajput
+ * @author akhilesh
  *
  */
 @Repository("employeeDao")
